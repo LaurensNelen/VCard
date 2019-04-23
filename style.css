@@ -1,0 +1,33 @@
+body{
+    margin: auto;
+    max-width: 500px;
+    border: solid 5px grey;
+    background-image: repeating-radial-gradient(grey, lightgrey 10%, green 15%);
+    background-repeat: no-repeat;
+}
+h1{
+   border-bottom: solid grey 5px;
+
+}
+.border
+{
+    background-image:  url(./background.jpg);
+    background-repeat: no-repeat;
+}
+div
+{
+    overflow: hidden;
+    
+}
+.left
+{
+   float: left; 
+}.right
+{
+    float: right;
+}
+img
+{
+    height: 50px;
+    width: 50px;
+}
